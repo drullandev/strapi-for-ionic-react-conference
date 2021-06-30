@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_row_types_statuses",
+  "info": {
+    "name": "status",
+    "icon": "adjust",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "key": {
+      "type": "string"
+    },
+    "value": {
+      "type": "boolean",
+      "default": false,
+      "required": true
+    },
+    "enabled": {
+      "type": "boolean",
+      "default": false,
+      "required": true
+    }
+  }
+}
